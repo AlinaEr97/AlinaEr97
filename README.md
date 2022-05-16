@@ -5,7 +5,7 @@
 Вот несколько фактов обо мне и моих проектах: 
 
 * Являюсь самоучкой, взрощенной на своих и чужих ошибках, обучающих видео, куче обсуждений c форумов и постоянной практике :desktop_computer:
-* Технологический стек: HTML5, CSS3 (SCSS), JS / JQuery. В планах основательно взяться за Wordpress и основы PHP :chart_with_upwards_trend:
+* Технологический стек: HTML5, CSS3 (SCSS), JS / JQuery. В планах серьёзно взяться за Wordpress и основы PHP :chart_with_upwards_trend:
 * Среди освоенных программ: Figma, Avocode, Zeplin, Adobe Photoshop и др. :heavy_check_mark:
 * Собираю проекты с помощью GULP :cup_with_straw:
 * Забочусь об адаптивности вёрстке, валидности кода и скорости загрузки сайта :microscope:
