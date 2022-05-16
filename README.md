@@ -20,6 +20,11 @@ _И ещё кое-что:_
 * I speak English :gb: :us:
 * וגם מדברת עברית 	:israel:
 
+__Для связи__:
+
+* VK: https://vk.com/alinabrando
+* Telegram: @brand6665
+* email: ermohinalina@yandex.ru
 
 
-__Ниже представлено несколько моих работ__ :arrow_down:
+#### Ниже представлено несколько моих работ :arrow_down:
